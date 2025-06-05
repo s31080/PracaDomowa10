@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracaDomowa10", "PracaDomowa10\PracaDomowa10.csproj", "{6311BB30-F05C-4455-B375-F5CCB788E252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6311BB30-F05C-4455-B375-F5CCB788E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6311BB30-F05C-4455-B375-F5CCB788E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6311BB30-F05C-4455-B375-F5CCB788E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6311BB30-F05C-4455-B375-F5CCB788E252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
